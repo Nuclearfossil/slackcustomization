@@ -164,7 +164,7 @@ svg.ts_icon_spinner:empty {
   color: var(--text) !important; }
 
 .close_flexpane {
-  color: var(--text) !important; }
+  color: var(--orange) !important; }
 
 .disclosure_triangle {
   color: var(--text) !important; }
